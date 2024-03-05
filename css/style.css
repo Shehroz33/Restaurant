@@ -1,6 +1,19 @@
 body {
-    font-size: 16px;
-    color: rgb(214, 141, 156);
-    background-color: rgb(188, 154, 219);
+    font-size: 40px;
+    color: black;
+    background-color: blanchedalmond;
     font-family: Arial, Helvetica, sans-serif;
 }
+/** Header **/
+#header-nav {
+    background-color: aqua;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    background: url('../images/logo.ico') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+  }
